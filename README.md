@@ -1,9 +1,9 @@
 # Advanced-Computing
 
-Performed complexity analysis using average time for various sorting algorithms, hashtables and search trees. Comparision is as follows:
+Performed complexity analysis using average time for various sorting algorithms, hashtables and search trees. The comparision is as:
 
 Sorting Algorithms: Mergesort, Quicksort, Heapsort and Dual-pivot Quicksort
-Hash tables: Cuckoo, QuadraticProbing and SeparateChaining  
+Hash Tables: Cuckoo, QuadraticProbing and SeparateChaining  
 Search Trees: BinarySearchTree, AVLTree, RedBlackBST, SplayTree
 
 Technology Used: Java, Eclipse IDE
